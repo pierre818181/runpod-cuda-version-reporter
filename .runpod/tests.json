@@ -3,10 +3,8 @@
     {
       "name": "validation_text_input",
       "input": {
-        "input": {
-            "text": "Hello world",
-            "language": "en"
-          },
+          "text": "Hello world",
+          "language": "en"
       },
       "timeout": 10000
     },
