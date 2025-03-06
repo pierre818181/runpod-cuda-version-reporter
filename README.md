@@ -3,3 +3,4 @@ A runpod serverless worker that just reports the CUDA version of the machine. Us
 asda
 
 asomehtis
+adadad
