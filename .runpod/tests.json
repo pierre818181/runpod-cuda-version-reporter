@@ -3,10 +3,18 @@
     {
       "name": "validation_text_input",
       "input": {
-        "text": "\\|Hello world\\|",
+        "text": "|Hello world|",
         "language": "en"
       },
       "timeout": 100000
+    },
+    {
+      "name": "validation_text_input",
+      "input": {
+        "text": "|Hello world|",
+        "language": "en"
+      },
+      "timeout": 1000
     }
   ],
   "config": {
