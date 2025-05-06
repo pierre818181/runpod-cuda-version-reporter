@@ -22,7 +22,7 @@
     "gpuCount": 1,
     "env": [
       {
-        "key": "ENV_KEY_HERE",
+        "key": "ENV_KEY_HER",
         "value": "ENV_VALUE_HERE"
       }
     ],
