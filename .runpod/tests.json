@@ -13,7 +13,8 @@
       "input": {
         "text": "|Hello world|",
         "language": "en"
-      }
+      },
+      "timeout": 100000
     }
   ],
   "config": {
